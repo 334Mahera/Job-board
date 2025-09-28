@@ -21,6 +21,7 @@
    ```bash
    git clone https://github.com/your-username/job-board.git
    cd job-board
+
 2. Create a virtual environment (optional but recommended)
 
     python -m venv venv
@@ -43,3 +44,10 @@ Future Enhancements
 💳 Payment integration for premium job postings.
 📈 Analytics dashboard for employers.
 🤖 AI-based job recommendations for seekers.
+
+Screenshot
+Home Page 
+<img width="1366" height="642" alt="Screenshot (330)" src="https://github.com/user-attachments/assets/14cba698-17a3-4028-a731-e9dfbaac6d83" />
+<img width="1366" height="649" alt="Screenshot (331)" src="https://github.com/user-attachments/assets/15d172a0-878d-444f-b09a-50a29dc944ef" />
+
+
